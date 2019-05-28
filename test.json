@@ -1,0 +1,29 @@
+{
+    data =     {
+        bizData =         {
+        };
+        siteData =         {
+            "app_i_start" =             {
+                daoju =                 (
+                                        {
+                        actid = 0;
+                        describe = 0;
+                        endtime = "2019-05-28 23:59:59";
+                        ext = "";
+                        id = 32100;
+                        image = "https://game.gtimg.cn/images/daojushop/uploads/ad/201905/20190528102121_580570.jpg";
+                        starttime = "2019-05-28 00:00:00";
+                        targetId = 0;
+                        title = "\U5996\U7cbe\U7684\U5c3e\U5df4";
+                        type = H5555;
+                        url = "";
+                    }
+                );
+            };
+        };
+    };
+    "event_id" = "DJC-DJ-0528153512-FePEob-1-760079";
+    msg = ok;
+    result = 0;
+    serverTime = 1559028912;
+}
